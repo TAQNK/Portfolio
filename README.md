@@ -1,4 +1,4 @@
-#  [Portfolio Website - Final code](www.tanishqpal.com)
+#  [Portfolio Website - Final code](https://tanishqpal.com)
 This is the final code where I build a 3D animated creative portfolio using Next.js, Prismic, GSAP, and Three.js.
 
 ## Follow the instructions to install
